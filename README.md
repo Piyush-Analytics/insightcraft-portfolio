@@ -17,9 +17,10 @@ I love solving real-world problems using data and building projects that create 
 
 ---
 
-## 🌐 Live Portfolio
+# 🚀 Piyush Kumar — Data Analyst Portfolio  
 
-🔗 **[View Portfolio Website](https://Piyush-Analytics.github.io/portfolio/)**
+## 🌐 Live Portfolio  
+🚀 https://piyush-analytics.github.io/insightcraft-portfolio/
 
 ---
 
